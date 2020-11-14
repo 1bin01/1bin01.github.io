@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introducing Tale"
+title:  "와우"
 author: "Chester"
 comments: true
 tags: Tale
