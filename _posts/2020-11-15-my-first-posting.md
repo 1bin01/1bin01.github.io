@@ -6,21 +6,9 @@ comments: true
 tags: Tale
 ---
 
-Tale is a minimal [Jekyll](https://jekyllrb.com/) theme curated for storytellers. It is designed and developed by [myself](https://github.com/chesterhow/) for a friend who writes short stories.
+드디어 블로그를 만들었다. 그 기념으로 첫 글을 남겨보자!
 
-## Tale features
-- Compatible with GitHub Pages
-- Responsive design (looks just as good on mobile)
-- Syntax highlighting, with the help of Pygments
-- Markdown and HTML text formatting
-- Pagination of posts
+블로그명에 대해 아마 궁금할 것 같다. 그저께 집에서 하루 쉬면서 드라마 '브람스를 좋아하세요?'를 정주했는데 그 테마곡이 'Träumerei'였다. Träumerei는 독일어로 '꿈'이라는 뜻으로, 내 블로그명을 해석하자면 '1bin의 꿈'이라 할 수 있겠다..
+지금 이미 새벽 4시가 넘었다. 대부분이 잠든 시간에 혼자(아니 사실 누나도 지금까지 과제를 하는 중이다..-.-) 열심히 블로그를 만들었다. 비록 남들보다 시작도 늦고 천부적인 재능을 가진 것도 아니지만, 내가 이 분야를 정말 좋아하고 또 나름의 꿈도 갖고 있기에 정말 열심히 할거다.. 방금 막 만들어서 서툴고 별볼일 없는 내 블로그, 그리고 나.. 지금은 작고 초라하지만 언젠가는 크고 거대한 존재가 되었으면 좋겠다.
 
-Head over to the [Example Content]({{ site.baseurl }}/2017-03-16/example-content) post for a showcase of Tale's text formatting features.
-
-## Browser Support
-Tale works on most if not all modern browsers, including Chrome, Safari and Firefox 👍🏼
-
-## Download or Contribute
-Tale is publicly hosted on GitHub, so go ahead and download or fork it at the [GitHub repository](https://github.com/chesterhow/tale). If you spot any bugs or have any suggestions, feel free to create an issue or make a pull request.
-
-Thanks for checking out Tale!
+내일 오전에 랩실에 갔다 저녁에는 오랜만에 정말 친한 친구들을 보러 갈 것이기 때문에 빨리 자야한다. 아쉬운 마음을 달래며 이만 물러가야겠다..
