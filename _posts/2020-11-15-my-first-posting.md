@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "와우"
-author: "Chester"
+title:  "1bin의 Träumerei"
+author: "1bin"
 comments: true
 tags: Tale
 ---
