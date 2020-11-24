@@ -25,6 +25,7 @@ sass:
   style:        compressed
 
 # Gems
+plugins: ['jekyll-paginate', 'jekyll-sitemap', 'jekyll-include-cache', 'jekyll-gist']
 plugins:
   - jekyll-feed
   - jekyll-paginate
