@@ -3,7 +3,7 @@ layout: post
 title:  "1bin의 Träumerei"
 author: "1bin"
 comments: true
-tags: 일기
+tags: 일기장
 ---
 
 드디어 블로그를 만들었다. 그 기념으로 첫 글을 남겨보자!
